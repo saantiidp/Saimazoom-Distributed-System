@@ -1,0 +1,30 @@
+# Entorno virtual
+Saimazoom/venv/
+venv/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+# Archivos de dependencias ya instaladas (site-packages, dist-info)
+**/site-packages/
+**/*.dist-info/
+
+# Archivos temporales de sistema o editores
+*.swp
+*.swo
+*.swn
+*~
+.DS_Store
+Thumbs.db
+
+# Archivos de log o salida
+*.log
+
+## Archivos de base de datos o persistencia
+*.pkl
+
+
